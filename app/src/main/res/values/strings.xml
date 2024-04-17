@@ -1,0 +1,9 @@
+<resources>
+    <string name="MonstrumV4">MonstrumV4</string>
+    <string name="place_holder_time">00:00:00</string>
+    <string name="start">start</string>
+    <string name="reset">reset</string>
+    <string name="stop">Stop</string>
+    <string name="lost">I lost</string>
+    <string name="smrt">Smrt</string>
+</resources>
